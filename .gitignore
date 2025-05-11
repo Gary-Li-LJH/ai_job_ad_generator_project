@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+# Replace 'venv_job_ad_generator' with the actual name of your virtual environment directory
+venv_job_ad_generator/
+venv/
+.venv/
+env/
+ENV/
+# Add other common venv names if you use them
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Streamlit specific (if any, usually not much to ignore from Streamlit itself unless you have local run caches)
+# .streamlit/ (Sometimes contains local config or secrets, but usually app-specific secrets go elsewhere)
+
+# Credentials and Sensitive Files
+# CRITICAL: Ensure your service account key and authenticator credentials are NOT committed.
+keys/hadoopdemo-proj-*.json # Ignore all JSON files in the keys directory
+keys/*.json                 # More general pattern for keys
+configs/credentials.yaml    # Your streamlit-authenticator credentials
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files from testing or generation
+temp_*.txt
+app_profile.prof # If you generated a cProfile output
+
+# Local configuration files (if you have any that shouldn't be shared)
+# local_settings.py
+# .env
+
+# Build artifacts (if you ever build distributions)
+build/
+dist/
+*.egg-info/
