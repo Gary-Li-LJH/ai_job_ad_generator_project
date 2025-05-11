@@ -1,0 +1,7 @@
+streamlit==1.45.0
+streamlit-authenticator==0.4.2
+google-cloud-aiplatform==1.92.0
+google-auth==2.40.1
+python-docx==1.1.2
+PyYAML>=5.0 
+protobuf==6.30.2

@@ -1,0 +1,339 @@
+
+POSITION DESCRIPTION
+
+Job Title
+Senior Network Engineer
+Division/Business Unit/Team
+Optus Business, Engineering ACT 
+Reporting to (job title)
+Engineering Manager – ACT
+Location
+OCC
+Job Level or Remuneration Range
+PF
+Approved by (job title)
+Federal Government Operations Manager
+POSITION SUMMARY
+
+Optus Business provides strategic-level life-cycling of complex technical deployments and post-sales delivery services to Federal Agencies. This covers design, implementation, support and resolution across LAN, WAN, IP Telephony, Cybersecurity, wireless solutions, and optimisation. 
+The Senior Engineer role will provide thought leadership, both internally as a team mentor and to Agency clients from C-Suite equivalent level down, across comprehensive design, solution build / implementation, scoping and technical support. 
+The role will have a proven track record of technical leadership within a Managed Services environment, working with Federal Government customers. You’ll enjoy the challenges of providing clear direction and technical leadership to your peers and our clients.
+Mandatory AGSVA clearance is required – demonstrated history of NV1 or above. Ability to obtain Agency specific security clearances are also mandatory (eg. ATO PEIC).
+
+The Senior Network / Security Engineer role is accountable for the provision of business and ICT knowledge to provide specialist design consultancy services for emerging technologies and solutions within the areas focused on ICT Professional Services & Technical Consulting working collaboratively with Sales, OB Technology & the COE’s on new acquisitions, as well as with Client Delivery within Integrated Client Services business unit on BAU opportunities (incremental) across all technology domains. 
+
+It is essential to have knowledge and experience across a range of market segments, technical competencies, business acumen and financial literacy.  Competencies will include one or more technologies such as routing and switching, Cybersecurity, server and storage, unified communications, cloud and virtualization. Has a deep understanding of the industry and communicates developments, implications of emerging technologies and the role and impact of technology to the client organisation, and potentially within Optus Business.  
+
+This senior role takes ownership of customer engagements, ensuring they are fit for purpose and satisfy current and future operational requirements of both client and Optus Business for ongoing management.  The provision of advice and recommendations is based on both expertise and experience, to address client needs.
+Internally the role will be responsible for providing technical subject matter leadership to wider Technical Operations, Sales, Professional Services and Client Delivery teams, and leveraging from broader Optus Business teams where necessary.  May also be utilised as required to assist in the verification or compilation of solutions for the sales and presales processes.
+
+The role must be able to coordinate and lead technical engineering for the client utilising cross-functional teams (and leaders), monitor status and work effectively in broadly defined environments. They will be accountable for resolving a range of issues and problems, requiring analytical and interpretive or constructive thinking to find solutions.  
+
+Functional: 
+
+The Senior Consulting Specialist, Technical Operations will meet this accountability through: 
+* The development of a high performance team of engineers that maintain a position as the design authorities on emerging ICT technologies and Professional Services capabilities.
+* Ensuring this position is maintained through building strong relationships at the senior level within the organisation, particularly in the areas of Marketing and Product Development, Finance, Strategy and Productivity, Networks Ops and Customer Engineering, Optus and Singtel group subsidiaries and other areas where product/service convergence or emergence is driven from.
+* Ensure successful delivery and implementation of new products into the design strategy.
+* Work with other Technical Operations and Global Operations leaders to build and maintain a cohesive team culture to ensure effective and efficient delivery of high quality solution designs within each opportunity.
+* Client engagement, leadership and relationship management.
+* Financial performance, revenue generating via a national practice focused on gross profit and client satisfaction.
+* Internal relationship management in a matrix organisation
+* Partner and Supplier management for new capability 
+* Design authority ownership for complex bids and managed service solutions in conjunction with Architecture & Professional Services teams providing accurate professional services effort and commercial and cost inputs into Business Cases for new opportunities as well as any BAU incremental opportunities from cross domain technology perspective.
+* Leading by example in the daily demonstration of the Optus Values, and fostering and rewarding the same behavior in team members.
+KEY ACCOUNTABILITIES/ KPIs
+
+Key Result Areas
+Required Outputs/ KPIs
+Measurement Method
+Design & Implementation
+* Undertaking system analysis, technical design, implementation and maintenance of solutions applied to customer infrastructure incorporating technologies such as network, IP Telephony, security, systems, optimisation and wireless solutions as applicable to the role.
+* Work with implementation teams and the customer, providing systems/network design and implementation support to ensure smooth and effective migration to new technology/versions; 
+* Design/implement testing methodologies and manage the outcome of the testing. 
+* Consultancy and policy contribution relating to OB network technologies and IP telephony solutions.
+
+
+* Customer specific feedback obtained through Post Implementation Review (PIR) and Voice of the Customer (VOC).
+* Feedback from implementation teams
+* Contribution to consultancy and policy – measured through feedback from peers and manager
+* contribution to project implementations – obtained through feedback from project stakeholders across MS&D  - Engineering, P&T & CD
+* Output of peer reviews of design and implementation documentation
+Customer Experience
+* Work closely with project managers and share major responsibility in managing customer expectations at the outset of projects.
+* Provide technical support to clients through dealing with complex service queries and problems with clients’ systems related to above technologies, as applicable.
+* Delivering excellent customer service 
+o Ensure that customer expectations are clearly set and meet or exceeded
+o Actively control the communication and reporting process with the client
+o Ensure the integrity of information communicated to the clients at all times
+* Exhibit empathy to the customers’ situation, perspective, constraints and issues. Ensures that OB is positively represented to the client in all forms of communication
+* Ensure activities are performed in a timely manner, in accordance with the contracted terms and agreed specifications.
+* Ensure corporate customer satisfaction standards are met; follow up with clients to ensure that they are satisfied with services or products provided
+* Active communication of issues with Manager: Ensure that early and clear communications is initiated with manager(s)  
+* Provide a high level of customer service as required, on-site or remotely.
+* Completing tasks within required timeframes.
+
+* Meet or exceed the required customer satisfaction scores in relation to interactions with clients
+* Customer specific feedback obtained through Post Implementation Review (PIR) and Voice of the Customer (VOC).
+
+Pre-Sales
+* Liaise closely with the Pre-Sales Solution Architects to ensure correct scoping and service pricing of solutions;
+* Assist with the review of the technical solutions and effort estimates needed for RFPs/Proposals.
+
+* Feedback from Pre-sales Architects
+
+* Contribution to RFPs/Proposals
+
+* Measured by willingness to assist and actual assistance on sales activities (current customer and internal commitments permitting).  
+
+* Measured by peer review by consultants or sales
+
+* Measured by quality and timeliness of review of solutions in pre-sales stage
+
+Compliance
+* Ensure compliance with OB Quality and Project Management Systems, Key Business Processes.
+* Maintaining high standards of technical and professional contribution to OB;
+* Maintaining high standards of technical and professional contribution to OB/AW
+o Qualification / re-certification: Individual goals are to be agreed and set at each annual performance appraisal to achieve a major qualification or recertification. These goals are measured at each subsequent performance appraisal;
+o Utilisation:  Responsible for Service Call closure and reporting within OB standards. 
+o Responsibility to maintain personal productive utilisation to OB standards
+o Contribution to team billable utilisation contribution to OB standards 
+
+* Improvement in Services GP
+* Weekly and end of month reports
+* Compliance to published delivery standards on the BMS – through Audit Reporting
+* National methods of operating across MS&D and use of published standard templates
+Time sheet
+
+* Manage a personal timesheet, within guidelines and timeframes as required by OB.
+
+* 0 exceptions on report
+
+* EMD weekly and end of month reports compliance target of 100% input by the due time.
+
+
+Project Delivery and Profitability
+* Maximise profitability of projects and general services
+* Successful delivery of the Project
+* Ensure any project overruns or variations in scope are clearly flagged to both Project Manager and Engineering Manager/Team Leader
+* Utilisation: responsible for Service Call closure and reporting within OB standards
+* Responsibility to maintain personal productive utilisation to OB standards
+* Contribution to team billable utilisation to OB standards
+
+* Smooth Project delivery
+
+* Customer feedback (internal and external)
+
+* Utilisation rates >75%
+
+Continuous Improvement
+* Develop capability and technical skills/certifications to support existing and new OB offerings
+* Qualification/re-certification: individual goals are to be agreed and set at each PDR review to achieve a major qualification or recertification. These goals are measured at each subsequent PDR review. 
+* Effectively share technical and project knowledge and experiences, ideas, innovation and knowledge of best practice across Engineering nationally
+* Attend informational sessions provided by vendors and OB.
+
+* Completed IDP reviewed quarterly with Manager
+* Training course attendance and training verification form completed
+* 
+Team work
+
+* Ensuring high levels of communication and teamwork; and 
+* Work as a team player, assisting other team members to achieve their goals.
+* Effectively sharing technical and project knowledge and experiences with the team
+* Attendance to meetings: Regular attendance and participation in weekly team meetings and State Office meetings.
+* Assisting junior level engineers in a mentoring as well as technical capacity
+* Perform other duties as required or directed by the Engineering Manager
+
+* Feedback from team members, clients, Sales, PMs. Architects. EMC
+* Your Say feedback
+* Upward Feedback gathered from junior engineers and engineers
+* Meeting attendance
+* Mentoring plans
+
+
+
+
+
+
+ROLE DIMENSIONS
+
+Financial Indicators
+
+Revenue
+
+Orders
+
+Capital expenditure budget
+
+Operating budget
+
+Other, e.g. EBIT
+
+Markets and Customers
+
+Target markets
+
+Impact on customers
+
+Customer type Please tick:
+Mainly internal
+
+Mainly external
+
+Both internal and external
+X
+Staff under Management:
+
+Number of direct reports
+None at this time
+Total staff (i.e. direct and indirect reports)
+None at this time
+Insert Organisational Chart here or Organisational Chart Attached
+
+
+
+MAJOR CHALLENGES / TYPICAL PROBLEMS ENCOUNTERED
+
+* This role involves visits to client and prospective client sites. Most clients are located within the local CBD. Staff members are expected to have a current driver’s license and provide their own transportation.
+* Staff members will be expected to provide their own parking.
+* Due to the nature of this role, there are a number of activities that may happen outside of normal working hours – e.g. attending Client/Vendor functions, seminars or functions.
+* From time to time a staff member may be required to travel as part of this role. It is expected that travel be taken to maximize the working day and consequently the staff member may need to travel outside of normal working hours without additional pay.
+* Staff members may be required to fulfill customer requirements to work outside of normal business hours, where possible staff members will be remunerated for overtime where the customer is being charged for the service.
+
+
+OPERATING ENVIRONMENT
+
+Decision Making Authority (Both from a Problem Solving and Accountability Perspective)
+
+Decisions made under own authority
+Decisions Referred to Higher Authority
+Expenditure approval to $XXXk
+
+Opex and COS budget to $XXM
+
+HR management of XXX employees
+
+Management of customer escalations and financial resolutions (in collaboration with Sales)
+Referred when financial resolution is beyond approval limit
+Completion of tasks within area of responsibility and within OB process and guidelines
+
+Any activity which will incur a cost for Optus Business or Optus Business’s client where prior approval has not been provided.
+
+
+
+
+Key Internal/External Contacts
+
+Contact
+Purpose
+* MS&D Engineering Management Team
+* Professional Services Teams including Sales, ICT Solutions, P&T and Customer Delivery
+* OB project managers
+* OB staff
+* OB State Leads and state based teams
+
+Optus Business clients – at all levels for the planning and implementation of projects as well as the response to issue resolution.
+
+Vendors and partners
+
+
+
+QUALIFICATIONS / EXPERIENCE / KNOWLEDGE REQUIRED
+ 
+Essential / must have
+Desirable / preferable
+Education level, knowledge and work/industry experience
+* A minimum of 7 years related technical experience with relevant vendor certifications
+* Extensive technical experience in design, installation and support of medium and large networking and IP Tel, systems, optimisation, wireless, security solutions 
+* Experience in technical pre-sales and customer implementation as a lead engineer
+
+Experience in design, installation and support of infrastructure solutions across multiple vendors
+
+
+Professional/technical skills
+* Professional approach to work, associates and clients
+* Strong commitment to quality and support of quality assurance systems
+* Strong communication skills, both verbal and written.
+* Demonstrated ability to work on-site for extended periods as senior part of a team
+* Customer relationship building skills. Able to quickly develop relationships and credibility with clients at all levels and maintain those relationships for the duration of a project lifecycle.
+* High level analytical and problem solving skills
+* High level influencing and interpersonal skills.
+* Demonstrated strong discovery skills and ability to identify customer’s business requirements and map a solution that will deliver benefit.
+* Strong commitment, enthusiasm and drive with the ability to work through conflicting pressures and priorities.
+* Commercial acumen.
+* Expertise in fault finding and problem diagnosis for above solutions.
+* Technical expertise in the design, implementation and support of systems applied to large and small customer installations.
+* General understanding of hardware technologies
+
+
+
+Behavioural (e.g. negotiation skills, presentation skills)
+* Customer focus
+* Ability to perform under pressure
+* Flexibility in approach to problems
+* Results orientated
+* Strong & demonstrable team ethic
+* Takes ownership for and persistence in delivering project outcomes in the face of adversity
+* Flexible with working hours
+* Exercises a high level of initiative
+* Ability to work autonomously
+* Well organised, able to reprioritise to make way for urgent requests
+* Results orientated
+* Able to lead small teams on projects
+
+
+
+
+Computer/ IT skills
+* Technical Qualifications, at this level this may include Cisco Certifications in Routing and Switching or SP (the later can be compensated with extensive experience and minimum of CCIP/CCNP)
+* Extensive experience in design, installation and support of Cisco core network technologies together with Riverbed or Cisco wireless solutions. You’ll also have desirable technical qualifications which may include Cisco/Juniper certifications in Routing, Switching, Wireless and security technologies – CCNA, CCNP, JNCIP etc.
+* Cisco, Citrix or F5 Load balancing experience on both physical and virtual network appliances.
+* Strong knowledge of MPLS networks and encryption technologies
+* Strong knowledge of protocols such as BGP, OSPF, EIGRP, RIP
+* Sound experience in designing/managing and troubleshooting end to end QOS across SP networks
+* Sound knowledge of network data encryption
+* Sound knowledge of IPV4 and IPV6
+* Technical expertise in the design, implementation and support of systems applied to large customer installations
+* General understanding of hardware technologies
+
+Tertiary level qualification in Information Technology
+* Sound knowledge of Cisco Routing and Switching
+* Expertise in Cisco Wireless solutions or Riverbed solutions
+
+
+
+Other
+
+
+For HR use
+
+Hay job size:
+
+* Know how
+
+* Problem solving
+
+* Accountability
+
+Total job size
+
+Internal relativities considered:
+(insert job title)
+
+(insert job title)
+
+(insert job title)
+Salary level/remuneration range
+
+Sized by (name)
+
+Sized by (position)
+
+
+
+
+
+
+_________________________________________________________________________________________
+April 2018		 Page   of 8	
+
